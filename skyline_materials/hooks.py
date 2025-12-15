@@ -8,6 +8,16 @@ app_license = "mit"
 # Apps
 # ------------------
 
+# in skyline_materials/hooks.py
+# doc_events = {
+#     "Material Request": {
+#         "on_submit": "skyline_materials.skylinematerials.api.handle_material_request_submit"
+#     }
+# }
+
+doctype_js = {
+    "Material Request": "public/js/material_request.js"
+}
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
