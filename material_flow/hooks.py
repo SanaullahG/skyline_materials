@@ -1,5 +1,5 @@
-app_name = "skyline_materials"
-app_title = "skylinematerials"
+app_name = "material_flow"
+app_title = "material_flow"
 app_publisher = "sanaullah"
 app_description = " Material allocation"
 app_email = "sanaullah@sowaan.com"

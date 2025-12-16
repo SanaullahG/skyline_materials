@@ -1,5 +1,5 @@
 [project]
-name = "skyline_materials"
+name = "material_flow"
 authors = [
     { name = "sanaullah", email = "sanaullah@sowaan.com"}
 ]
